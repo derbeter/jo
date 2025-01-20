@@ -468,7 +468,7 @@
             <section class="SectionContent ">
                <div class="SportsIframeWrapper">
                   <div class="DropDownBackground"></div>
-                  <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="https://sports2.jojobet991.com/tr?basePath=https%3A%2F%2Fwww.jojobet991.com%2Ftr%2Fsports%2Fi" allow="autoplay;fullscreen;web-share" style="height: 3584px;"></iframe>
+                  <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="/iframe" allow="autoplay;fullscreen;web-share" style="height: 3584px;"></iframe>
                </div>
                <div class="GameCategoriesWrapper">
                   <section id="Jojobet-anasayfa$jojobet-özel" class="CasinoGames GamesList GamesListGrid MsnRow">
@@ -2429,17 +2429,17 @@
                         <ul class="footer-social-wrapper">
                            <li class="footer-social-item">
                               <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/jojobettelegramdestekbot">
-                                 <figure class="Figure ComponentPicture "><img alt="Telegram Destek" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/da123636-telegramfooter.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img alt="Telegram Destek" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/da123636-telegramfooter.png"></figure>
                               </a>
                            </li>
                            <li class="footer-social-item">
                               <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/jojo_sosyal">
-                                 <figure class="Figure ComponentPicture "><img alt="Telegram" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/61911974-telegram.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img alt="Telegram" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/61911974-telegram.png"></figure>
                               </a>
                            </li>
                            <li class="footer-social-item">
                               <a class="ComponentAnchor footer-social-icon Anchor" href="https://x.com/jojo_haberler">
-                                 <figure class="Figure ComponentPicture "><img alt="Twitter" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/063619b4-x.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img alt="Twitter" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/063619b4-x.png"></figure>
                               </a>
                            </li>
                         </ul>
@@ -2459,28 +2459,28 @@
                         <h3 class="footer-external-logo-title">Sponsorluklar</h3>
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="https://www.jojobet991.com/tr/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/e72318b1-tysonlogo-300x180-1.png"></figure>
+                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/e72318b1-tysonlogo-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="https://www.jojobet991.com/tr/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/0d767366-11382-300x180-1.png"></figure>
+                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/0d767366-11382-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="https://www.jojobet991.com/tr/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/2814122e-30291-300x163-1.png"></figure>
+                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/2814122e-30291-300x163-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="https://www.jojobet991.com/tr/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/d3b3ba6d-30292-300x180-1.png"></figure>
+                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/d3b3ba6d-30292-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="https://www.jojobet991.com/tr/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/72f83b7c-31103-300x150-1.png"></figure>
+                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/72f83b7c-31103-300x150-1.png"></figure>
                               </a>
                            </li>
                         </ul>
@@ -2507,7 +2507,7 @@
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
                               <a target="_blank" class="ComponentAnchor  Anchor">
-                                 <figure class="Figure ComponentPicture "><img alt="18+" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/b61114a9-jojobet.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img alt="18+" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/b61114a9-jojobet.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
@@ -2518,12 +2518,12 @@
                            </li>
                            <li class="footer-external-logo-item">
                               <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJbVoxY2poa1VGbEdTR1pXUldaWGVVeENURVJEWVhjOVBTSXNJblpoYkhWbElqb2ljekZYTHpFd2FGbDJZWEV5WmpOd2VHdGtOR04zUVQwOUlpd2liV0ZqSWpvaU5EbGhabUl6WWpobVlXSmlPRFEwTjJWa05qRXpOalZrTjJWaU9ESXpNbVV6TldOa1pqSXpZVFpsTWpBNVpEZzNNMlZsTWpneE1qY3lOREkxTkRVNE1pSXNJblJoWnlJNklpSjk=">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/cda60152-gcb-orange-seal.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/cda60152-gcb-orange-seal.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
                               <a target="_blank" class="ComponentAnchor  Anchor" href="https://www.dmca.com/">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.jojobet991.com/stateless-jojobet/2019/06/05accf10-dmca_badge_grn_100w.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/05accf10-dmca_badge_grn_100w.png"></figure>
                               </a>
                            </li>
                         </ul>
