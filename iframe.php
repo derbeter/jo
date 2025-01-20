@@ -10,12 +10,12 @@
       <meta name="googlebot" content="noindex,indexifembedded">
       <base href="/">
       <title>Spor Bahisleri</title>
-      <link rel="preload" href="/sports2-static/chunk.source~main.1f35032d88cb0d3fd246.css" as="style">
-      <link rel="preload" href="/sports2-static/chunk.vendors~main.075fd87c89cfe0d5692c.css" as="style">
+      <link rel="preload" href="/sports2-static/chunk.sourcemain.1f35032d88cb0d3fd246.css" as="style">
+      <link rel="preload" href="/sports2-static/chunk.vendorsmain.075fd87c89cfe0d5692c.css" as="style">
       <link rel="preload" href="/sports2-static/chunk.main.4b4c572fe9c68612f6c1.js" as="script">
       <link rel="preload" href="/sports2-static/main.9456662339c2ea2b3d43.js" as="script">
-      <link rel="preload" href="/sports2-static/chunk.source~main.f7773c7916ba2e04eb28.js" as="script">
-      <link rel="preload" href="/sports2-static/chunk.vendors~main.5676e5fd87bfa6bbc757.js" as="script">
+      <link rel="preload" href="/sports2-static/chunk.sourcemain.f7773c7916ba2e04eb28.js" as="script">
+      <link rel="preload" href="/sports2-static/chunk.vendorsmain.5676e5fd87bfa6bbc757.js" as="script">
       <link rel="prefetch" href="/sports2-static/chunk.source~generated-mappings.8721ad433f5bc48e45b6.js" as="script">
       <link rel="preload" href="/sports2-static/chunk.source~i18n-tr-json.eefd0dc8397dcba76415.js" as="script">
       <link rel="stylesheet" href="/sports2-static/chunk.source~main.1f35032d88cb0d3fd246.css">
